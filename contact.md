@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-![ExxMLAvatar.png](My avatar)
+![My avatar](/ExxMLAvatar.png)
 
 If you are interested in my work, please contact me!
 
